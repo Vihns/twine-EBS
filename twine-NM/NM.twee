@@ -1,0 +1,21 @@
+:: StoryTitle
+NM
+
+
+:: StoryData
+{
+  "ifid": "3AC65E86-A2C8-47FE-8C58-B9D737A3AEBA",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "#000",
+  "zoom": 1
+}
+
+
+:: #000 {"position":"800,350","size":"100,100"}
+[[#001]]
+
+
+
+:: #001 {"position":"800,475","size":"100,100"}
+
